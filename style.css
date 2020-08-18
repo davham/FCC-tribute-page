@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+
+#main {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#tribute-info {
+  width: 400px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+#img-div{
+  width: 400px;
+  margin: 0 auto;
+}
+#image {
+  width:100%;
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+}
